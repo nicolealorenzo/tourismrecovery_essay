@@ -2,17 +2,18 @@
 ## Nicole Lorenzo | GEOG 458 | Final Essay
 
 ### Introduction
-Since the beginning of quarantine in March 2020, COVID-19 has tested the limits of socioeconomic and environmental challenges throughout communities worldwide. Health resources and policies have been evaluated since then to help communities get through this tough time. Travel being a significant factor to possible exposure to COVID-19 has resulted in many governments putting travel restrictions in place and encouraging most citizens to do their due diligence and not travel (Elliott). For many destinations, the communities thrive off of the tourist industry. COVID-19 hasn’t only taken a toll on the health of individuals, but also the economic backbone of many communities. The tourism industry includes entertainment, travel, hotels and vacation stays. With the shutdown of many industries and COVID regulations, the travel industry has been suffering with less tourists and not being able to function at full capacity.
+Since the beginning of quarantine in March 2020, COVID-19 has tested the limits of socioeconomic and environmental challenges throughout communities worldwide. Health resources and policies have been evaluated since then to help communities get through this tough time. Travel being a significant factor to possible exposure to COVID-19 has resulted in many governments putting travel restrictions in place and encouraging most citizens to do their due diligence and not travel [(The Washington Post)](https://www.washingtonpost.com/lifestyle/travel/what-covid-19-did-to-travel--and-what-it-will-do/2021/03/10/3730719e-80de-11eb-81db-b02f0398f49a_story.html). For many destinations, the communities thrive off of the tourist industry. COVID-19 hasn’t only taken a toll on the health of individuals, but also the economic backbone of many communities. The tourism industry includes entertainment, travel, hotels and vacation stays. With the shutdown of many industries and COVID regulations, the travel industry has been suffering with less tourists and not being able to function at full capacity.
+
 
 Moving forward, it’s important that with COVID-19, communities and governments start to prioritize prevention and safety. As more destinations start to open their borders, it’s important to acknowledge tourism recovery, especially in terms of boosting economies. Travel restrictions are beginning to ease, it’s important to manage travel patterns so businesses and governments can act accordingly. Keeping track of this data is essential to moving forward with future travel restrictions and ensuring the safety of local and incoming tourists.
 
-Below: Picture of the dashboard overview. Note the data summary and indicators
-![Dashboard overview](images/overview.png "Overview")
-
 ### The Data
 #### <ins>Overview and Purpose</ins>
-The interactive data dashboard that will be discussed in this report is provided by The World Tourism Organization (UNWTO) and is titled the “Tourism Recovery Tacker” (World Tourism Organization). Conveniently in one space, the Tourism Recovery Tracker displays recovery (if any) trends on a monthly basis on global and regional scale, including a section explaining the top ten destinations.Major functions of the tracker include being able to compare regions and top destinations based on the indicators listed below. Understanding that tourism is essential to a lot of destinations, it becomes a challenge of changing protocols and also ensuring the safety of the local population.
+The interactive data dashboard that will be discussed in this report is provided by The World Tourism Organization (UNWTO) and is titled the [“Tourism Recovery Tacker”](https://www.unwto.org/unwto-tourism-recovery-tracker) (World Tourism Organization). Conveniently in one space, the Tourism Recovery Tracker displays recovery (if any) trends on a monthly basis on global and regional scale, including a section explaining the top ten destinations.Major functions of the tracker include being able to compare regions and top destinations based on the indicators listed below. Understanding that tourism is essential to a lot of destinations, it becomes a challenge of changing protocols and also ensuring the safety of the local population.
 The purpose and goal of this tracker is to provide governments and private businesses a resource to track travel patterns and foreshadow potential travel, to prepare for precautions and restrictions.
+
+Below: Picture of the dashboard overview. Note the data summary and indicators
+![Dashboard overview](images/overview.png "Overview")
 
 #### <ins>Important Indicators and Contributors</ins>
 Being able to view the data globally, regionally, and sunregionally, these are the four categories when assessing tourism recovery (listed below with the data providers):
@@ -33,7 +34,7 @@ Being able to view the data globally, regionally, and sunregionally, these are t
 4. COVID-19
 * 14 day notification rate (EDCD)
 
-Below: Screenshot from recovery tracker of contributors per each indicator 
+Below: Screenshot from recovery tracker of contributors per each indicator
  ![List of Contributors](images/contributors.png "Overview")
 
 #### <ins>Planning</ins>
